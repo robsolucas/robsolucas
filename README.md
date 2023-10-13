@@ -3,7 +3,7 @@
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-122?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/robson-lucas-32176b278/)
-[![Discord](https://img.shields.io/badge/Discord-122?style=for-the-badge&logo=discord&logoColor=FFF)](https://www.discord.com/in/robsonlucas_38508/)
+[![Discord](https://img.shields.io/badge/Discord-122?style=for-the-badge&logo=discord&logoColor=FFF)](robsonlucas_38508)
 
 ## Tools and knowledge
 
