@@ -16,7 +16,7 @@
 
 #### Acquired onroad
 ![DINAMICA](https://img.shields.io/badge/DINAMICA_EGO-122?style=for-the-badge&logo=&logoColor=2271B3)
-![BDSQL](https://img.shields.io/badge/Bancos_de_dados-122?style=for-the-badge&logo=&logoColor=2271B3)
+![BDSQL](https://img.shields.io/badge/Modelagem_de_BD-122?style=for-the-badge&logo=&logoColor=2271B3)
 ![R!](https://img.shields.io/badge/Linguagem_R-122?style=for-the-badge&logo=R&logoColor=2271B3)
 
 #### In progress
