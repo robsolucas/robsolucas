@@ -16,8 +16,9 @@
 
 #### Acquired onroad
 ![DINAMICA](https://img.shields.io/badge/DINAMICA_EGO-122?style=for-the-badge&logo=&logoColor=2271B3)
-![BDSQL](https://img.shields.io/badge/Modelagem_de_BD-122?style=for-the-badge&logo=&logoColor=2271B3)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-122?style=for-the-badge&logo=MongoDB&logoColor=2271B3)
 ![R!](https://img.shields.io/badge/Linguagem_R-122?style=for-the-badge&logo=R&logoColor=2271B3)
+![Earth Engine](https://img.shields.io/badge/Earth_Engine-122?style=for-the-badge&logo=GoogleEarthEngine&logoColor=2271B3)
 
 #### In progress
 ![Drone](https://img.shields.io/badge/Levantamento_aerofotogrametrico-122?style=for-the-badge&logo=drone&logoColor=888888)
