@@ -13,15 +13,13 @@
 ![EXCEL](https://img.shields.io/badge/EXCEL-122?style=for-the-badge&logo=MicrosoftExcel&logoColor=green)
 ![HTML5](https://img.shields.io/badge/HTML5-122?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-122?style=for-the-badge&logo=css3&logoColor=2271B3)
+![Drone](https://img.shields.io/badge/Levantamento_aerofotogrametrico-122?style=for-the-badge&logo=drone&logoColor=888888)
 
 #### Acquired onroad
 ![DINAMICA](https://img.shields.io/badge/DINAMICA_EGO-122?style=for-the-badge&logo=&logoColor=2271B3)
 ![MongoDB](https://img.shields.io/badge/Mongo_DB-122?style=for-the-badge&logo=MongoDB&logoColor=2271B3)
 ![R!](https://img.shields.io/badge/Linguagem_R-122?style=for-the-badge&logo=R&logoColor=2271B3)
 ![Earth Engine](https://img.shields.io/badge/Earth_Engine-122?style=for-the-badge&logo=GoogleEarthEngine&logoColor=2271B3)
-
-#### In progress
-![Drone](https://img.shields.io/badge/Levantamento_aerofotogrametrico-122?style=for-the-badge&logo=drone&logoColor=888888)
 
 ### GitHub Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsolucas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
